@@ -1,5 +1,9 @@
-## Olá! Eu sou o Samuel Magno👋
-Estudando Ciência da Computação na UFABC - Universidade Federal do ABC
+### Olá! Eu sou o Samuel Magno👋
+
+Estudando Ciência da Computação na [UFABC - Universidade Federal do ABC](https://www.ufabc.edu.br/)</br>
+Desenvolvedor Back-end compartilhando minha jornada no mundo tech</br>
+
+
 <!--
 **samuel-magno/samuel-magno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
